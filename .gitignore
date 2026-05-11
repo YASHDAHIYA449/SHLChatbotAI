@@ -1,0 +1,51 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+
+# Chroma vector database
+shl_vector_db/
+
+# HuggingFace cache
+.cache/
+huggingface/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+tmp/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# PyTorch cache
+torch_cache/
+
+# Model downloads
+models/
+
+# Test outputs
+outputs/
