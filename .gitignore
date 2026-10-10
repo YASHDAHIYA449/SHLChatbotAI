@@ -48,4 +48,5 @@ torch_cache/
 models/
 
 # Test outputs
-outputs/
+outputs/'desktop.ini' 
+desktop.ini 
